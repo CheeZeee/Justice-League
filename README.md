@@ -4,3 +4,4 @@ List of Bootcamp members in Justice League
 Richard Ekong
 Wilfred Airueghionmon
 Oise Akhibi
+Chika Onwueyi
