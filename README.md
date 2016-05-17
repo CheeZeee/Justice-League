@@ -2,7 +2,6 @@
 List of Bootcamp members in Justice League
 ========================================
 Richard Ekong
-Wilfred Airueghionmon
 Oise Akhibi
 Chika Onwueyi
 Kinglsey Ekoh-Ordan
@@ -25,3 +24,5 @@ Liasu Hassan Temitope
 Ibrahim Abdulkadir
 Ata Tangban
 Bamgbose Omodemilade
+Davies Christopher
+Cyril Paul
